@@ -1,2 +1,10 @@
-package PACKAGE_NAME;public class Main {
+import homework.Airplane;
+
+public class Main {
+    public static void main(String[] args){
+
+
+
+
+    }
 }
